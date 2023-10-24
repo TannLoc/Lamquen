@@ -1,0 +1,15 @@
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.csproj.AssemblyReference.cache
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.AssemblyInfoInputs.cache
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.AssemblyInfo.cs
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.csproj.CoreCompileInputs.cache
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\bin\Debug\net7.0\Bai1_LamquenvoiC#.exe
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\bin\Debug\net7.0\Bai1_LamquenvoiC#.deps.json
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\bin\Debug\net7.0\Bai1_LamquenvoiC#.runtimeconfig.json
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\bin\Debug\net7.0\Bai1_LamquenvoiC#.dll
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\bin\Debug\net7.0\Bai1_LamquenvoiC#.pdb
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.dll
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\refint\Bai1_LamquenvoiC#.dll
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.pdb
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\Bai1_LamquenvoiC#.genruntimeconfig.cache
+D:\Work space\VS2022\C#\Dotnet\Bai1_LamquenvoiC#\Bai1_LamquenvoiC#\obj\Debug\net7.0\ref\Bai1_LamquenvoiC#.dll
